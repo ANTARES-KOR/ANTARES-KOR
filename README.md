@@ -1,7 +1,7 @@
-### Frontend Developer 👋
+### Web Developer 👋
 
 - since 2021
-- React/Next.js/Typescript
+- React / Typescript
 
 ### I'm Interested in 
 
