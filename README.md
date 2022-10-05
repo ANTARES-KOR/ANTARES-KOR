@@ -1,16 +1,18 @@
-### Hi there 👋
+### Frontend Developer 👋
 
-<!--
-**ANTARES-KOR/ANTARES-KOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- since 2021
+- React/Next.js/Typescript
 
-Here are some ideas to get you started:
+### I'm Interested in 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Open source, Typescript, Frontend Devops, Data Engineering... anything that can be done by computer.
+
+### I've been at
+
+- Yonsei Univ CS
+- Ybigta Data Engineering Team
+- Innovaid
+
+
+[![Hyeokjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANTARES-KOR)](https://github.com/anuraghazra/github-readme-stats)
+
