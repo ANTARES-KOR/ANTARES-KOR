@@ -2,6 +2,7 @@
 
 - since 2021
 - React / Typescript
+- Go
 
 ### I'm Interested in 
 
