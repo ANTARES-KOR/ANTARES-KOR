@@ -4,15 +4,15 @@
 - React / Typescript
 - Go
 
-### I'm Interested in 
+### I'm now
 
-- Open source, Typescript, Frontend Devops, Data Engineering... anything that can be done by computer.
+- CS Major Student [`@Yonsei Univ.`](https://cs.yonsei.ac.kr)
 
-### I've been at
+### I've been
 
-- Yonsei Univ CS
-- Ybigta Data Engineering Team
-- Innovaid
+- Co-founder, Frontend Engineer [`@Innovaid`](https://dentlink.io)
+- Data Engineering Team Lead [`@Ybigta`](https://humane-attack-c9c.notion.site/YBIGTA-704f030fb94740d89be8e4cb59d0a681)
+
 
 
 [![Hyeokjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANTARES-KOR)](https://github.com/anuraghazra/github-readme-stats)
