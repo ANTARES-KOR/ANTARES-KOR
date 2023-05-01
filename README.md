@@ -1,8 +1,6 @@
 ### Web Developer 👋
 
-- since 2021
-- React / Typescript
-- Go
+- Typescript
 
 ### I'm now
 
