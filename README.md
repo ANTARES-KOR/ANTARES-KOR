@@ -1,6 +1,8 @@
-### Web Developer 👋
+### Problem Solver 👋
 
+Capable of
 - Typescript
+- Prompt Engineering w/ GPT
 
 ### I'm now
 
