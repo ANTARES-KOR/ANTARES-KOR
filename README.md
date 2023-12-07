@@ -7,8 +7,9 @@ Capable of
 ### I'm now
 
 - CS Major Student [`@Yonsei Univ.`](https://cs.yonsei.ac.kr)
+- Mobile Team Member [`@GDSC-Yonsei`](https://gdsc-ys.github.io/)
 
 ### I've been
 
 - Co-founder, Frontend Engineer [`@Innovaid`](https://dentlink.io)
-- Data Engineering Team Lead [`@Ybigta`](https://humane-attack-c9c.notion.site/YBIGTA-704f030fb94740d89be8e4cb59d0a681)
+- Data Engineering Team Lead [`@Ybigta`](https://ybigta.org)
