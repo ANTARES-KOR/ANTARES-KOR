@@ -1,8 +1,4 @@
-### Problem Solver 👋
-
-Capable of
-- Typescript
-- Prompt Engineering w/ GPT
+### What am I..?
 
 ### I'm now
 
