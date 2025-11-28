@@ -2,10 +2,9 @@
 
 ### I'm now
 
-- CS Major Student [`@Yonsei Univ.`](https://cs.yonsei.ac.kr)
-- Mobile Team Member [`@GDSC-Yonsei`](https://gdsc-ys.github.io/)
+- Autonomous Vehicle Planning Engineer [`@RideFlux`](https://www.eng.rideflux.com/)
 
 ### I've been
 
 - Co-founder, Frontend Engineer [`@Innovaid`](https://dentlink.io)
-- Data Engineering Team Lead [`@Ybigta`](https://ybigta.org)
+- Data Engineering Team Lead of Student Cub [`@Ybigta`](https://ybigta.org)
